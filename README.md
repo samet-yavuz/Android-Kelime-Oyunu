@@ -1,16 +1,4 @@
 # kelime_oyunu
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/75983925/235351375-7a7a13e9-6b0d-4c46-b24c-90c2a0be38e5.png)
+![image](https://user-images.githubusercontent.com/75983925/235351379-9775915d-d79d-4e45-9571-7422a7425997.png)
